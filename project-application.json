@@ -1,0 +1,47 @@
+[
+    {
+        "projectname": "Klantportaal",
+        "applicationname": "Tullip",
+        "status": "Error"
+    },
+        {
+        "projectname": "Facilitair Online",
+        "applicationname": "E-portfolio",
+        "status": "Available"
+    },
+       {
+        "projectname": "Gom",
+        "applicationname": "Windmill",
+        "status": "Available"
+    },
+        {
+        "projectname": "Klantportaal",
+        "applicationname": "Windmill",
+        "status": "Available"
+    },
+        {
+        "projectname": "Breijer Configurator",
+        "applicationname": "Windmill",
+        "status": "Error"
+    },
+    {
+        "projectname": "Gom",
+        "applicationname": "Windmill",
+        "status": "Available"
+    },
+    {
+        "projectname": "Klantportaal",
+        "applicationname": "Windmill",
+        "status": "Error"
+    },
+    {
+        "projectname": "Facilitair Online",
+        "applicationname": "E-portfolio",
+        "status": "Error"
+    },
+    {
+        "projectname": "Gom",
+        "applicationname": "Windmill",
+        "status": "Error"
+    }
+]
